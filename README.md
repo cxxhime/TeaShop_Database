@@ -13,6 +13,6 @@ Code SQL & Données : Partagés sur GitHub – incluent les requêtes SQL (code_
 ### 🚀 Utilisation
 Clone le dépôt GitHub.
 Importe le schéma dans ton environnement SQL.
-Exécute les fichiers data.sql (pour peupler les tables) et code_sql.sql (pour les requêtes).
+Exécute les fichiers data.sql (pour peupler les tables) et request.sql (pour les requêtes).
 
 Prêt à explorer la gestion des ventes et clients via SQL !
