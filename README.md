@@ -1,4 +1,5 @@
-# Projet Gestion Ventes & Clients - SQL
+# Projet Base de Données SQL
+
 ### 📌 Description
 Projet SQL structurant une base de données pour gérer les ventes de produits, les informations clients, et leurs adresses. Le schéma integre des tables interconnectées (ventes, clients, produits, etc.) pour modéliser les données business.
 
